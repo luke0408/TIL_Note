@@ -1,1 +1,1 @@
-## [[Java]]
+## [Java](./Java/Java.md)
