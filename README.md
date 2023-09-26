@@ -28,13 +28,12 @@
 
 ## 분류
 
-|분류명|내용|개수|
-|---|---|---:|
-|[Language](./Language/main.md)|Java, Python 등 프로그래밍 언어와 관련된 정보를 다룬다.|1|
-|[개발 일반](./Development/main.md)|개발 문화 및 방법론, Git 등의 정보를 다룬다.|0|
-|[Computer Science](./CS/main.md)|알고리즘, OS 등 CS 전공 지식과 관련된 내용을 다룬다.|1|
-|[Back-End](./Back-End/main.md)|BE와 관련된 프레임워크 등의 정보를 다룬다|1|
-|[Front-End](./Front-End/main.md)|FE와 관련된 프레임워크 등의 정보를 다룬다.|0|
-|[DevOps](./DevOps/main.md)|Infra 및 클라우드 서비스 등의 정보를 다룬다.|0|
-|[Book](./Book/main.md)|IT 분야 뿐만이 아니라 직접 읽은 다양한 서적을 다룬다|2|
-|[Troubleshooting](./Troubleshooting/main.md)|프로젝트 혹은 개인 공부중 발생한 문제 상황 및 해결 방안을 다룬다.|0|
+|분류명|내용|
+|---|---|
+|[Language](Language.md)|Java, Python 등 프로그래밍 언어와 관련된 정보를 다룬다.|
+|[개발 일반](Development.md)|개발 문화 및 방법론, Git 등의 정보를 다룬다.|
+|[Computer Science](Computer%20Science.md)|알고리즘, OS 등 CS 전공 지식과 관련된 내용을 다룬다.|
+|[Back-End](Back-End.md)|BE와 관련된 프레임워크 등의 정보를 다룬다|
+|[Front-End](Front-End.md)|FE와 관련된 프레임워크 등의 정보를 다룬다.|
+|[DevOps](DevOps.md)|Infra 및 클라우드 서비스 등의 정보를 다룬다.|
+|[Book](Book.md)|IT 분야 뿐만이 아니라 직접 읽은 다양한 서적을 다룬다|
