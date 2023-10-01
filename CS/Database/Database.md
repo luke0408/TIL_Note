@@ -12,6 +12,6 @@
 | [Operations(기초)](Operations-Basic.md)             | as, order dy, string 등                     |
 | [Set Operations](Set%20Operations.md)               | Set(union, intersect, except 등) Operations |
 | [Null Values](Null%20Values.md)                     | 데이터 베이스에서 Null이란?                 |
-| [Aggregate Functions](Aggreate%20Functions.md)      | avg, min, max, sum, count 등                |
-| [Nested Subqueris](Nested%20Subqueris.md)           | 서브 쿼리의 사용법                          |
+| [Aggregate Functions](Aggregate%20Functions.md)      | avg, min, max, sum, count 등                |
+| [Subqueries](Subqueries.md)           | 서브 쿼리의 사용법                          |
 | [Database Modification](Database%20Modification.md) | Deletion, Insertion, Update                 |
